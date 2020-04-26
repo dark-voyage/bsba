@@ -63,7 +63,7 @@ welcome_cover: /img/cover.jpg
 cover: /img/welcome-cover.jpg
 
 # Avatar
-avatar: /img/logo_icon.png
+avatar: /img/genemator/avatar.jpg
 
 # Disable default scrollbar
 scrollbar: true
