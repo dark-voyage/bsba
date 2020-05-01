@@ -3,9 +3,8 @@ title: genemator
 date: 2020-03-06 19:31:46
 ---
 <div class="my-links">
-  <a class="gradient-text" href="https://github.com/sakhib-orzklv" target="_blank" rel="noopener"><span class=" iconfont icon-github"></span></a>
-  <a class="gradient-text" href="https://t.me/geno_ferollo" target="_blank" rel="noopener"><span class=" iconfont icon-qzone"></span></a>
-  <a class="gradient-text" href="https://stackoverflow.com/users/12685965/sokhibjon-orzikulov?tab=profile" target="_blank" rel="noopener"><span class=" iconfont icon-stack-overflow"></span></a>
+  <a class="gradient-text" href="https://github.com/genemators" target="_blank" rel="noopener"><span class=" iconfont icon-github"></span></a>
+  <a class="gradient-text" href="https://t.me/genemator" target="_blank" rel="noopener"><span class=" iconfont icon-qzone"></span></a>
 </div>
 
 <style>
@@ -19,7 +18,7 @@ date: 2020-03-06 19:31:46
 <img src="/img/genemator/avatar.jpg" style="height: 200px; width: 200px; border-radius: 50%; margin-bottom: 15px" />
 
 Hello dear visitor! I'm Sokhibjon Orzikulov who is famous as <b style="color: #42d2ca"> **三·Genemator** </b>.
-I'm Senior Full-Stack develop and I can code in programming languages like C, C++, Java, Kotlin, Python, JavaScript (EcmaScript 2019).
+I'm Senior Full-Stack developer and I can code in programming languages like C, C++, Java, Kotlin, Python, JavaScript (EcmaScript 2019).
 Mainly, I code in Python which offers various useful features for me. Also, I can design 3D driven video & photo. I prefer
 Cinema 4D as 3D engine and Adobe Products for editing purposes. In addition, I can create musics or tones for my projects.
 Currently, I study as student of Westminster University in Tashkent. Yes, as you guess I'm Uzbek. 

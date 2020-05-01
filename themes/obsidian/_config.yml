@@ -49,8 +49,8 @@ page_titles:
 
 # Social media links
 socials:
-  github: "https://github.com/bsba-team"
-  twitter: "https://twitter.com/sakhib_orzklv"
+  github: "https://github.com/genemators"
+  twitter: "https://twitter.com/genemator"
   telegram: "https://t.me/genemator"
 
 # Enable table of content
@@ -107,8 +107,8 @@ gitalk:
   clientID: '54dd5e9c0517cadf896c'
   clientSecret: '13b1a78b89a907bc183afb15dc248fd1db15a8df'
   repo: 'bsba'
-  owner: 'sakhib-orzklv'
-  admin: ['sakhib-orzklv']
+  owner: 'genemators'
+  admin: ['genemators']
   # Ensure uniqueness and length less than 50
   id: location.pathname
   # Facebook-like distraction
