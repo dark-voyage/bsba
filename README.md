@@ -24,14 +24,14 @@ Deploy your own Hexo project with [**ZEIT Now CLI**](https://zeit.co/download).
 | Versions:            | Links:                             | Source Codes:                                                 |
 |----------------------|------------------------------------|---------------------------------------------------------------|
 |**Stock Hexo**        | _https://hexo.now-examples.now.sh_ |[Source](https://github.com/zeit/now-examples/tree/master/hexo)|
-|**Genemator's Blog**  | _http://bsba.gq_                   |[Source](https://github.com/sakhib-orzklv/bsba)                |
+|**Genemator's Blog**  | _http://bsba.gq_                   |[Source](https://github.com/genemators/bsba)                |
 |**Vue.js Homepage**   | _https://vuejs.org/_               |[Source](https://github.com/vuejs/vuejs.org)                   |
 |**Hexo's Homepage**   | _https://hexo.io/_                 |[Source](https://github.com/hexojs/hexo)                       |
 |**Meteor.js Homepage**| _https://docs.meteor.com/_         |[Source](https://github.com/meteor/docs)                       |
 
-> The web page is still in beta phase so feel free to [open issues](https://github.com/sakhib-orzklv/bsba/issues/new) and give me some suggestions.
+> The web page is still in beta phase so feel free to [open issues](https://github.com/genemators/bsba/issues/new) and give me some suggestions.
 ---
 
-> Important Note: Under the AGPL-3.0 license, if you're running your own instance, you should add a link to the source [(this repository)](https://github.com/sakhib-orzklv/bsba) in your websites bio. If you're modifying this source and making your own bot, you should link to the source of your own version of the bot according to the AGPL-3.0 license. Check [LICENSE](LICENSE) for more info.
+> Important Note: Under the AGPL-3.0 license, if you're running your own instance, you should add a link to the source [(this repository)](https://github.com/genemators/bsba) in your websites bio. If you're modifying this source and making your own bot, you should link to the source of your own version of the bot according to the AGPL-3.0 license. Check [LICENSE](LICENSE) for more info.
 
-`BSBA` icon is from [Genemator](https://t.me/sakhib_orzklv/) by Sokhibjon Orzikulov.
+`BSBA` icon is from [Genemator](https://t.me/genemator/) by Sokhibjon Orzikulov.
