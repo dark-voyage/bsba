@@ -17,12 +17,21 @@ date: 2020-03-06 20:11:21
 
 <img src="/img/nagaimatsuge/avatar.jpg" style="height: 200px; width: 200px; border-radius: 50%; margin-bottom: 15px" />
 
-Good time of the day, says admin of the BSBA team. Living 17 years and loving programming, this guy specialises in web development and has done some progress. 
-Mainly the work is done with PHP, OOP PHP, Restful API, MySQL, Gulp.js, Sass, ES6, TypeScript and with the help of frameworks like Bootstrap4 and Vue.js for the frontend and Yii2 for the backend.
-AJAX, JSON, XML, REST, JQuery are included. Also, RBAC for system controll, migrations. UI designing and PSD to HTML.
-I also work with Apache as a server and 127.0.0.1 is my favourite place to spend time;)
-And plus for all of these, 2 years of experience in the pocket.
+Strong Middle/ Senior PHP Developer.
 
+Good time of the day, says admin of the BSBA team. Living 18 years and loving programming, this guy specialises in web development and has done some progress.
+
+For the FrontEnd: Html5, Css3, Js, ES6, JQuery.
+Alternatively, for the backend: The work is done with PHP7+, OOP PHP/Protcedural, Restful API, MySQL/Postgres, ORM, RBAC, PSR, ElasticSearch/Manticore/Sphinx and with the help of frameworks like Bootstrap4  for UI and Yii2 in general.
+Ablity to work separately with Apache or Nginx(Load Balancer with Nginx), MySql or Postgres. Also, experience in both Windows and Linux environment. Familiar with both command line and bash.   
+
+And plus for this, I have some experience with Telephony systems. Here I can include: Asterisk, AMI, ARI, FreePBX for SysAd, AutoDialer, telephony for small call-centers, have made my own Alternative for Fop2.
+
+The ability to work in team, experience in high load projects, optimizing huge databases, handling loading. Working with documentation and understanding other code.
+
+Some decent English(IELTS-6.5), Russian(Second lang.) and Uzbek(Native). Also, algorithms and security problem solvings.
+
+Studying at INHA University in Tashkent. SOCIE Department(Sophomore Currently). I have studied at ALWIUT in Tashkent(2years). I have worked at Zetsoft and ActiveExpress Companies in summer holidays.
 <hr>
 
 <h3 id="Projects"><a href="#Projects" class="headerlink" title="Who am I"></a><code>Projects</code></h3>
