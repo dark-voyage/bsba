@@ -25,23 +25,83 @@ Currently, I study as student of Westminster University in Tashkent. Yes, as you
 
 <hr>
 
-<h3 id="Projects"><a href="#Projects" class="headerlink" title="Who am I"></a><code>Projects</code></h3>
+<h3 id="Projects"><a href="#Projects" class="headerlink" title="Projects"></a><code>Projects</code></h3>
 
-- [**BSBA™**](https://bsba.uz) 一 I'm founder of this project
-- [**OSS Linux™**](#) 一 Operation system for ready solution
-- [**Chisel™**](https://chisel.uz) 一 Creator of this project
+- [**Deno**](https://deno.land) 一 Contributor of Javascript Runtime Software
+- [**BSBA™**](https://bsba.uz) 一 Founder of this project
+- [**OSS Linux™**](#) 一 Very own operating system full of automation
+- [**Chisel Devs™**](https://chisel.uz) 一 Creator and Active contributor of this project
 
 <hr>
 
-<h3 id="Gears"><a href="#Gears" class="headerlink" title="Who am I"></a><code>Development gears & machines</code></h3>
+<h3 id="Gaming"><a href="#Gaming" class="headerlink" title="Gaming"></a><code>Gaming</code></h3>
 
-+ Machine name: ZVERKA V2.15
-+ Operation System：Modified Windows (by myself), OSS Linux (created again by myself)
-+ IDE：[JetBrains](https://www.jetbrains.com/)
-+ Editor：[Modified Visual Studio Code by myself (Retro Synthwave 80's theme)](https://code.visualstudio.com/)
-+ Shell：[Native Powershell with Pshazz](https://github.com/lukesampson/pshazz)
-+ Packet Manager: [Scoop.sh by lukesampson](https://github.com/lukesampson/scoop/wiki)
-+ Browser：[Chrome with (Retro Synthwave 80's theme)](https://www.google.com/chrome/browser/desktop/index.html)
-+ VM：[VirtualBox](https://www.virtualbox.org/)
-+ Databases: [PostgreSQL (for Python)](https://github.com/lukesampson/scoop), [MySQL (for PHP)](https://github.com/lukesampson/scoop), [MongoDB (for NodeJS)](https://github.com/lukesampson/scoop)
-+ Graphics：[Adobe Products](https://www.adobe.com/products/catalog.html), [Maxon Cinema 4D](https://www.maxon.net/en-us/products/cinema-4d/overview/)
+- [**Steam Profile**](https://steamcommunity.com/id/genemator/)
+- [**Discord Server**](https://discord.gg/jUBNnEY)
+- [**XBOX & Minecraft**]()
+
+<hr>
+
+<h3 id="Gears"><a href="#Gears" class="headerlink" title="Gears"></a><code>Development Gears & Machines</code></h3>
+
+<h4 id="Machines"><a href="#Machines" class="headerlink" title="Machines"></a><code>Machines:</code></h4>
+
+- ServerLand@10.10.0.1 (Home Server)
+- Black-Hole@10.10.0.2 (Main Computer)
+
+<h4 id="Operation System"><a href="#Operation System" class="headerlink" title="Operation System"></a><code>Operation Systems:</code></h4>
+
+- Windows @ black-hole (Modified Windows by Genemator)
+
+<img src="/img/genemator/windows.jpg" style="height: 200px; width: 400px; border-radius: 10px; margin-bottom: 15px" />
+
+- OSS Linux @ skyrider (Genemator's Main Workspace)
+
+<img src="/img/genemator/linux.jpg" style="height: 200px; width: 400px; border-radius: 10px; margin-bottom: 15px" />
+    
+<h4 id="IDE"><a href="#IDE" class="headerlink" title="IDE"></a><code>IDEs:</code></h4>
+
+- [WebStorm](https://www.jetbrains.com/webstorm)
+- [PyCharm](https://www.jetbrains.com/pycharm)
+- [Clion](https://www.jetbrains.com/clion)
+- [DataGrip](https://www.jetbrains.com/datagrip)
+- [Rider](https://www.jetbrains.com/rider/)
+- [ReSharper & ReSharper++](https://www.jetbrains.com/resharper-cpp)
+- [Visual Studio Code](https://visualstudio.microsoft.com/)
+- [(Deprecated) XCode](https://developer.apple.com/xcode/)
+
+<h4 id="Editors"><a href="#Editors" class="headerlink" title="Editors"></a><code>Editors:</code></h4>
+
+- [VIM with Material Color Scheme](https://github.com/genemators/dot)
+- [Sometimes VS Code](https://code.visualstudio.com/)
+    
+<h4 id="Shells"><a href="#Shells" class="headerlink" title="Shells"></a><code>Shells:</code></h4>
+
+- [Native Powershell with Pshazz](https://github.com/lukesampson/pshazz)
+- [ZSH powerlevel10k](https://github.com/romkatv/powerlevel10k)
+    
+<h4 id="Package Managers"><a href="#Package Managers" class="headerlink" title="Package Managers"></a><code>Package Managers:</code></h4>
+
+- [Scoop.sh by lukesampson](https://github.com/lukesampson/scoop/wiki)
+- [Pacman, YAY by Jguer](https://github.com/Jguer/yay)
+    
+<h4 id="Browsers"><a href="#Browsers" class="headerlink" title="Browsers"></a><code>Browsers:</code></h4>
+
+- [Chrome with Retro Synthwave 80's theme (for development for purposes)](https://www.google.com/chrome/browser/desktop/index.html)
+- [Edge (for entertainment purposes)](https://www.microsoft.com/en-us/edge)
+
+<h4 id="Virtual Machine Managers"><a href="#Virtual Machine Managers" class="headerlink" title="Virtual Machine Managers"></a><code>Virtual Machine Managers:</code></h4>
+
+- [Gnome Boxes (in OSS Linux)](https://wiki.gnome.org/Apps/Boxes)
+- [VirtualBox (in Windows)](https://www.virtualbox.org/)
+
+<h4 id="Databases"><a href="#Databases" class="headerlink" title="Databases"></a><code>Databases:</code></h4>
+
+- [PostgreSQL (for Python)](https://github.com/lukesampson/scoop)
+- [MySQL (for PHP)](https://github.com/lukesampson/scoop)
+- [MongoDB (for NodeJS)](https://github.com/lukesampson/scoop)
+
+<h4 id="Graphics"><a href="#Graphics" class="headerlink" title="Graphics"></a><code>Graphics:</code></h4>
+
+- [Adobe Products](https://www.adobe.com/products/catalog.html)
+- [Maxon Cinema 4D](https://www.maxon.net/en-us/products/cinema-4d/overview/)
