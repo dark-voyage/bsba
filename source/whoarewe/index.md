@@ -6,7 +6,7 @@ date: 2020-02-20 03:21:16
 
 <div class="my-links">
   <a class="gradient-text" href="https://github.com/bsba-team" target="_blank" rel="noopener"><span class=" iconfont icon-github"></span></a>
-  <a class="gradient-text" href="https://t.me/bsba_group" target="_blank" rel="noopener"><span class=" iconfont icon-qzone"></span></a>
+  <a class="gradient-text" href="https://t.me/iBlogs_community" target="_blank" rel="noopener"><span class=" iconfont icon-qzone"></span></a>
 </div>
 
 <style>
@@ -29,7 +29,7 @@ date: 2020-02-20 03:21:16
 
 <h3 id="Who-am-I"><a href="#Who-am-I" class="headerlink" title="Who am I"></a><code>Who are we?</code></h3>
 
-Welcome to our blog, We are <b style="color: #42d2ca">**BSBA™**</b> known as <b style="color: #20C720">**group of developers**</b>
+Welcome to our blog, We are <b style="color: #42d2ca">**BSBA™**</b> known as <b style="color: #20C720">**group of senior developers**</b>
 Our team consists of Full-stack Software & Web Solo Developers, Graph Editors, Musicians. 
 We have coders that can code in C, C++, Javascript, Java, Python, Kotlin.
 As regards to Graphic Designing, our members usually use Cinema 4D & Almost all Adobe Products
