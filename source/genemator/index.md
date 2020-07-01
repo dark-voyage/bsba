@@ -52,7 +52,7 @@ Currently, I study as student of Westminster University in Tashkent. Yes, as you
 
 - [**Steam Profile**](https://steamcommunity.com/id/genemator/)
 - [**Discord Server**](https://discord.gg/jUBNnEY)
-- [**XBOX & Minecraft**]()
+- [**XBOX & Minecraft**: SAKHIB.ORZKLV](#Gaming)
 
 <hr>
 
