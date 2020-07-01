@@ -41,7 +41,7 @@ Yes, as you guess I'm Uzbek.
 
 <hr>
 
-<h3 id="Langs"><a href="#Langs" class="headerlink" title="Langs"></a><code>Languages</code></h3>
+<h3 id="Experiences"><a href="#Experiences" class="headerlink" title="Experiences"></a><code>Experiences</code></h3>
 
 - [**JavaScript (EcmaScript 2019)**](https://en.wikipedia.org/wiki/ECMAScript)
 - [**TypeScript 3, Preview 4**](https://www.typescriptlang.org/)
