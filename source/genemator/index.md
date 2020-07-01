@@ -49,7 +49,7 @@ Yes, as you guess I'm Uzbek.
 - [**Java**](https://www.java.com/en/)
 - [**Kotlin**](https://kotlinlang.org/)
 - [**C++ (2020 Preview)**](https://en.wikipedia.org/wiki/C%2B%2B)
-- [**C**](https://en.wikipedia.org/wiki/C_(programming_language))
+- [**C (C18 Standard Revision)**](https://en.wikipedia.org/wiki/C_(programming_language))
 
 <hr>
 
