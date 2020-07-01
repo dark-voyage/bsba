@@ -43,7 +43,7 @@ Currently, I study as student of Westminster University in Tashkent. Yes, as you
 
 - [**Deno**](https://deno.land) 一 Contributor of Javascript Runtime Software
 - [**BSBA™**](https://bsba.uz) 一 Founder of this project
-- [**OSS Linux™**](#) 一 Very own operating system full of automation
+- [**OSS Linux™**](https://github.com/genemators/oss) 一 Very own operating system full of automation [(Installer for Arch Linux)](https://github.com/genemators/oss). The whole operating system is closed source!
 - [**Chisel Devs™**](https://chisel.uz) 一 Creator and Active contributor of this project
 
 <hr>
