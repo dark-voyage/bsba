@@ -31,11 +31,25 @@ date: 2020-03-06 19:31:46
 
 <img src="/img/genemator/avatar.jpg" style="height: 200px; width: 200px; border-radius: 50%; margin-bottom: 15px" />
 
+
+
 Hello dear visitor! I'm Sokhibjon Orzikulov who is famous as <b style="color: #42d2ca"> **三·Genemator** </b>.
-I'm Senior Full-Stack developer and I can code in programming languages like C, C++, Java, Kotlin, Python, JavaScript (EcmaScript 2019).
-Mainly, I code in Python which offers various useful features for me. Also, I can design 3D driven video & photo. I prefer
-Cinema 4D as 3D engine and Adobe Products for editing purposes. In addition, I can create musics or tones for my projects.
-Currently, I study as student of Westminster University in Tashkent. Yes, as you guess I'm Uzbek. 
+I'm Senior Full-Stack developer. Mainly, I code in Python which offers various useful features for me.
+Also, I can design 3D driven video & photo. I prefer. Cinema 4D as 3D engine and Adobe Products for editing purposes. 
+In addition, I can create musics or tones for my projects. Currently, I study as student of Westminster University in Tashkent. 
+Yes, as you guess I'm Uzbek. 
+
+<hr>
+
+<h3 id="Langs"><a href="#Langs" class="headerlink" title="Langs"></a><code>Languages</code></h3>
+
+- [**JavaScript (EcmaScript 2019)**](https://en.wikipedia.org/wiki/ECMAScript)
+- [**TypeScript 3, Preview 4**](https://www.typescriptlang.org/)
+- [**Python 2,3**](https://www.python.org/)
+- [**Java**](https://www.java.com/en/)
+- [**Kotlin**](https://kotlinlang.org/)
+- [**C++ (2020 Preview)**](https://en.wikipedia.org/wiki/C%2B%2B)
+- [**C**](https://en.wikipedia.org/wiki/C_(programming_language))
 
 <hr>
 
