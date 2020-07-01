@@ -50,6 +50,7 @@ Yes, as you guess I'm Uzbek.
 - [**Kotlin**](https://kotlinlang.org/)
 - [**C++ (2020 Preview)**](https://en.wikipedia.org/wiki/C%2B%2B)
 - [**C (C18 Standard Revision)**](https://en.wikipedia.org/wiki/C_(programming_language))
+- [**Assembly (used actively in core linux)**](https://en.wikipedia.org/wiki/Assembly_language)
 
 <hr>
 
