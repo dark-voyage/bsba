@@ -29,11 +29,9 @@ date: 2020-03-06 19:31:46
 
 <h3 id="Who-am-I"><a href="#Who-am-I" class="headerlink" title="Who am I"></a><code>Who am I</code></h3>
 
-<img src="/img/genemator/avatar.jpg" style="height: 200px; width: 200px; border-radius: 50%; margin-bottom: 15px" />
-
+<!-- <img src="/img/genemator/avatar.jpg" style="height: 200px; width: 200px; border-radius: 50%; margin-bottom: 15px" /> -->
 
 _Errors & bugs can be fixed. However, life faults won't be!_ - **Sokhibjon Orzikulov**
-
 
 Hello dear visitor! I'm Sokhibjon Orzikulov, who is famous under the nickname <b style="color: #42d2ca">**三·Genemator**</b>.
 I'm glad to see you visit my website. For the beginning, let me introduce myself. I’m a Senior Full-Stack developer with more than 7 years of experience.
@@ -43,7 +41,6 @@ Besides, I prefer Cinema 4D as 3D engine and utilize Adobe Products for editing 
 I can also create different songs and music for my projects by using special applications on a professional level.
 For the time being, I am a second-year student at Westminster International University in Tashkent.
 My nationality is Uzbek and I'm only 19 years old 😎
-
 
 <hr>
 
@@ -68,7 +65,8 @@ My nationality is Uzbek and I'm only 19 years old 😎
 - [**OSS Linux™**](https://github.com/genemators/oss) 一 Creator of very own operating system full of automation [(Installer for Arch Linux)](https://github.com/genemators/oss). The whole operating system is closed source. Only members of BSBA are allowed to contribute this project!
 - [**Chisel Devs™**](https://chisel.uz) 一 The social group of developer which helps junior developers to get started up.
 - [**Serverland**](https://github.com/genemators/serverland) 一 The server manager for my home server.
-- [**Betalander**](https://github.com/genemators/betalander) 一Minecraft server manager & update written in typescript for [deno.land](https://deno.land).
+- [**Betalander**](https://github.com/genemators/betalander) 一 Minecraft server manager & update written in typescript for [deno.land](https://deno.land).
+- [**Sara**](https://github.com/genemators/sara) 一 The Voice Assistant for myself to make my life easier with automatisations.
 
 <hr>
 
@@ -82,9 +80,9 @@ My nationality is Uzbek and I'm only 19 years old 😎
 - `See ya later, happines.` **(2015 += 5)**
 - `Damn education, hello socialization.` **(2014)**
 - `At the first sight of you...` **(2013)**
-- `print "first step to future"` **(2012)**
+- `print "first step to the future"` **(2012)**
 - `My dear class teacher, the demoness from the hell` **(2011)**
-- `The born of Sultan of success.` **(2010)**
+- `The born of Sultan to be success.` **(2010)**
 - `Brothers for gaming life.` **(2009)**
 - `Study for achievements, forget the future.` **(2008)**
 - `The capital of Uzbekistan is Tashkent.` **(2007)**
