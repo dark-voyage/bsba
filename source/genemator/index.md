@@ -66,7 +66,7 @@ My nationality is Uzbek and I'm only 19 years old 😎
 
 <hr>
 
-<h3 id="Gaming"><a href="#Gaming" class="headerlink" title="Gaming"></a><code>Gaming</code></h3>
+<h3 id="Quotes"><a href="#Quotes" class="headerlink" title="Quotes"></a><code>My Quotes</code></h3>
 
 - [**Steam Profile**](https://steamcommunity.com/id/genemator/)
 - [**Discord Server**](https://discord.gg/jUBNnEY)
