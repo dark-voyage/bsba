@@ -83,7 +83,7 @@ Yes, as you guess I'm Uzbek.
 
 <img src="/img/genemator/windows.jpg" style="height: 200px; width: 400px; border-radius: 10px; margin-bottom: 15px" />
 
-- OSS Linux @ skyrider (Genemator's Main Workspace)
+- OSS Linux WSL Edition @ skyrider (Genemator's Main WSL2 workspace)
 
 <img src="/img/genemator/linux.jpg" style="height: 200px; width: 400px; border-radius: 10px; margin-bottom: 15px" />
     
@@ -101,11 +101,11 @@ Yes, as you guess I'm Uzbek.
 <h4 id="Editors"><a href="#Editors" class="headerlink" title="Editors"></a><code>Editors:</code></h4>
 
 - [VIM with Material Color Scheme](https://github.com/genemators/dot)
-- [Sometimes VS Code](https://code.visualstudio.com/)
+- [Visual Studio Code](https://code.visualstudio.com/)
     
 <h4 id="Shells"><a href="#Shells" class="headerlink" title="Shells"></a><code>Shells:</code></h4>
 
-- [Native Powershell with Pshazz](https://github.com/lukesampson/pshazz)
+- [Native Powershell with Pshazz (sh shim)](https://github.com/lukesampson/pshazz)
 - [ZSH powerlevel10k](https://github.com/romkatv/powerlevel10k)
     
 <h4 id="Package Managers"><a href="#Package Managers" class="headerlink" title="Package Managers"></a><code>Package Managers:</code></h4>
