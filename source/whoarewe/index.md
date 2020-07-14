@@ -38,7 +38,7 @@ As regards to Graphic Designing, our members usually use Cinema 4D & Almost all 
 
 <h3 id="Projects"><a href="#Projects" class="headerlink" title="Who am I"></a><code>Open source projects</code></h3>
 
-- [BSBA™](https://chisel.uz) 一 Team of senior developers.
+- [BSBA™](https://bsba.uz) 一 Team of senior developers.
 - [Chisel Devs](https://t.me/iblogs_community) 一 Social group for junior developers to get started up.
 - [Educator.uz](https://educator.uz) 一 Place to sharpen your coding skills.
 - [iBlogs](https://www.youtube.com/channel/UCLvAJjc5gvy_6QL2f-RRBuw) - a YouTube channel where [Mr.Abdurakhimov](/mrabdurakhimov) shares his experiences.
