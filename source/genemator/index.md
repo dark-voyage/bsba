@@ -78,8 +78,13 @@ My nationality is Uzbek and I'm only 19 years old 😎
 - `Being alone isn't so bad...` **(2016)**
 - `See you later, happines.` **(2015 += 5)**
 - `Damn education, hello socialization.` **(2014)**
+- `Study for achievements, forget the future` **(2008)**
+- `The capital of Uzbekistan is Tashkent` **(2007)**
 - `I'll be back, Tennese!` **(2006)**
+- `Thank you for warm memories, Murfresboro City Pre-School` **(2005)**
+- `Espanol best girl friend not girlfriend` **(2004)**
 - `Sister from Tennese?` **(2003)**
+- `Are you ready for an American Journey?` **(2002)**
 - `std::cout << "Hello World!";` **(2001)**
 
 <hr>
