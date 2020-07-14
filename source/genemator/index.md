@@ -86,7 +86,7 @@ My nationality is Uzbek and I'm only 19 years old 😎
 
 <img src="/img/genemator/windows.jpg" style="height: 200px; width: 400px; border-radius: 10px; margin-bottom: 15px" />
 
-- OSS Linux WSL Edition @ skyrider (Genemator's Main WSL2 workspace)
+- OSS Linux WSL Edition @ skyrider (Genemator's Choice)
 
 <img src="/img/genemator/linux.jpg" style="height: 200px; width: 400px; border-radius: 10px; margin-bottom: 15px" />
     
