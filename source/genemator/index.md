@@ -69,7 +69,7 @@ My nationality is Uzbek and I'm only 19 years old 😎
 
 <hr>
 
-<h3 id="Quotes"><a href="#Quotes" class="headerlink" title="Quotes"></a><code>My Yearly Life Quotes</code></h3>
+<h3 id="Quotes"><a href="#Quotes" class="headerlink" title="Quotes"></a><code>My Yearly Lifetime Quotes</code></h3>
 
 - `My whole life is turning into if else cases.` **(2020)** _> Present_
 - `This life awarded you with a day, so don't forget to say "Hello World" in response.` **(2019)**
