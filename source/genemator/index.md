@@ -33,7 +33,7 @@ date: 2020-03-06 19:31:46
 
 
 Hello dear visitor! I'm Sokhibjon Orzikulov, who is famous under the nickname <b style="color: #42d2ca">**三·Genemator**</b>.
-I'm glad to see you visit my website. For the beginning, let me introduce myself. I’m a Senior Full-Stack developer with more than 6 years of experience.
+I'm glad to see you visit my website. For the beginning, let me introduce myself. I’m a Senior Full "Stuck" developer with more than 6 years of experience.
 Although I professionally code using different programming languages, I mainly use C++ for its total controll and wide range of functions.
 That said, my knowledge is not limited to coding. I am also a specialist in creating 3D driven video and photo.
 Besides, I prefer Cinema 4D as 3D engine and utilize Adobe Products for editing purposes.
