@@ -107,7 +107,7 @@ pwa:
       start_url: /index.html
       theme_color: '#0f27b5'
       background_color: '#100e17'
-      display: standalone
+      display: fullscreen
   serviceWorker:
     path: /sw.js
     preload:

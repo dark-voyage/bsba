@@ -3,7 +3,7 @@
  "short_name": "BSBA™",
  "theme_color": "#0f27b5",
  "background_color": "#100e17",
- "display": "standalone",
+ "display": "fullscreen",
  "start_url": "/index.html",
  "icons": [
   {
