@@ -79,7 +79,7 @@ My nationality is Uzbek and I'm only 19 years old 😎
 - `See you later, happines.` **(2015 += 5)**
 - `Damn education, hello socialization.` **(2014)**
 - `At the first sight of you...` **(2013)**
-- `Parents are sacred humanity` **(2012)**
+- `print "HELLO FUTURE WORLD"` **(2012)**
 - `My dear class teacher, demoness from the hell` **(2011)**
 - `The born of future successful businessman` **(2010)**
 - `Modern Warfare 2: Gaming with brothers for the best memory` **(2009)**
