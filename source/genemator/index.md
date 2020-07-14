@@ -28,7 +28,7 @@ date: 2020-03-06 19:31:46
   }
 </style>
 
-<i class="my-links">Errors & bugs can be fixed. However, life faults won't be!</i>
+<i class="my-links">Errors & bugs can be fixed. However, life faults won't be! © Genemator</i>
 
 <h3 id="Who-am-I"><a href="#Who-am-I" class="headerlink" title="Who am I"></a><code>Who am I</code></h3>
 
