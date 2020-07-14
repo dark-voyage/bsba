@@ -32,7 +32,7 @@ date: 2020-03-06 19:31:46
 <img src="/img/genemator/avatar.jpg" style="height: 200px; width: 200px; border-radius: 50%; margin-bottom: 15px" />
 
 
-_Errors & bugs can be fixed. However, life errors won't!_ - **Sokhibjon Orzikulov**
+_Errors & bugs can be fixed. However, broken life won't!_ - **Sokhibjon Orzikulov**
 
 
 Hello dear visitor! I'm Sokhibjon Orzikulov, who is famous under the nickname <b style="color: #42d2ca">**三·Genemator**</b>.
