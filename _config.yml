@@ -105,7 +105,7 @@ pwa:
           sizes: 192x192
           type: image/png
       start_url: /index.html
-      theme_color: '#0f27b5'
+      theme_color: '#100e17'
       background_color: '#100e17'
       display: fullscreen
   serviceWorker:
