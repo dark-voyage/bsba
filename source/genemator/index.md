@@ -67,7 +67,6 @@ Yes, as you guess I'm Uzbek.
 
 - [**Steam Profile**](https://steamcommunity.com/id/genemator/)
 - [**Discord Server**](https://discord.gg/jUBNnEY)
-- [**XBOX & Minecraft**: SAKHIB.ORZKLV](#Gaming)
 
 <hr>
 
