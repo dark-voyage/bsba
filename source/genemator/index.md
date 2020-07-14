@@ -71,7 +71,7 @@ My nationality is Uzbek and I'm only 19 years old 😎
 
 <h3 id="Quotes"><a href="#Quotes" class="headerlink" title="Quotes"></a><code>My Yearly Life Quotes</code></h3>
 
-- `My whole life is turning into if else cases.` **(2020)** _$ Present_
+- `My whole life is turning into if else cases.` **(2020)** _> Present_
 - `This life awarded you with a day, so don't forget to say "Hello World" in response.` **(2019)**
 - `Why my program is perfectly running from the first time???` **(2018)**
 - `Jackal jigars for a waste of time.` **(2017)** _[Jigar - from uzbek it's like homies]_
