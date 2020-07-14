@@ -75,19 +75,19 @@ My nationality is Uzbek and I'm only 19 years old 😎
 - `This life awarded you with a day, so don't forget to say "Hello World" in response.` **(2019)**
 - `Why my program is perfectly running from the first time???` **(2018)**
 - `Jackal jigars for a waste of time.` **(2017)** _[Jigar - from uzbek it's like homies]_
-- `Being alone isn't so bad...` **(2016)**
-- `See you later, happines.` **(2015 += 5)**
+- `From today, I'm your sensei!` **(2016)**
+- `See ya later, happines.` **(2015 += 5)**
 - `Damn education, hello socialization.` **(2014)**
 - `At the first sight of you...` **(2013)**
-- `print "HELLO FUTURE WORLD"` **(2012)**
-- `My dear class teacher, demoness from the hell` **(2011)**
-- `The born of future successful businessman` **(2010)**
-- `Modern Warfare 2: Gaming with brothers for the best memory` **(2009)**
-- `Study for achievements, forget the future` **(2008)**
-- `The capital of Uzbekistan is Tashkent` **(2007)**
+- `print "first step to future"` **(2012)**
+- `My dear class teacher, the demoness from the hell` **(2011)**
+- `The born of Sultan of success.` **(2010)**
+- `Brothers for gaming life.` **(2009)**
+- `Study for achievements, forget the future.` **(2008)**
+- `The capital of Uzbekistan is Tashkent.` **(2007)**
 - `I'll be back, Tennese!` **(2006)**
-- `Thank you for warm memories, Murfresboro City Pre-School` **(2005)**
-- `Espanol best girl friend not girlfriend` **(2004)**
+- `Thank you for warm memories, Murfresboro City Pre-School.` **(2005)**
+- `Spanish best girl friend not girlfriend.` **(2004)**
 - `Sister from Tennese?` **(2003)**
 - `Are you ready for an American Journey?` **(2002)**
 - `std::cout << "Hello World!";` **(2001)**
