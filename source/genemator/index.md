@@ -87,7 +87,7 @@ My nationality is Uzbek and I'm only 19 years old 😎
 - `The capital of Uzbekistan is Tashkent.` **(2007)**
 - `I'll be back, Tennese!` **(2006)**
 - `Thank you for warm memories, Murfresboro City Pre-School.` **(2005)**
-- `Spanish best girl friend not girlfriend.` **(2004)**
+- `American best girl friend not girlfriend.` **(2004)**
 - `Sister from Tennese?` **(2003)**
 - `Are you ready for an American Journey?` **(2002)**
 - `std::cout << "Hello World!";` **(2001)**
