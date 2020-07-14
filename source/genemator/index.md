@@ -2,7 +2,7 @@
 title: genemator
 date: 2020-03-06 19:31:46
 ---
-<img class="hero-image" src="/img/drawcode.svg" style="padding-bottom: 2em;" height="550" width="550/">
+<img class="hero-image" src="/img/genemator/Portfolio.png" style="padding-bottom: 2em;" height="500" width="1000">
 
 <div class="my-links">
   <a class="gradient-text" href="https://github.com/genemators" target="_blank" rel="noopener"><span class=" iconfont icon-github"></span></a>
