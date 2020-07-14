@@ -80,7 +80,7 @@ My nationality is Uzbek and I'm only 19 years old 😎
 - `Damn education, hello socialization.` **(2014)**
 - `I'll be back, Tennese!` **(2006)**
 - `Sister from Tennese?` **(2003)**
-- `msg db "Hello World",0xa` **(2001)**
+- `std::cout << "Hello World!";` **(2001)**
 
 <hr>
 
