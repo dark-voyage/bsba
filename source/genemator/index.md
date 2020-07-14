@@ -120,8 +120,8 @@ Yes, as you guess I'm Uzbek.
 
 <h4 id="Virtual Machine Managers"><a href="#Virtual Machine Managers" class="headerlink" title="Virtual Machine Managers"></a><code>Virtual Machine Managers:</code></h4>
 
-- [Gnome Boxes (in OSS Linux)](https://wiki.gnome.org/Apps/Boxes)
-- [VirtualBox (in Windows)](https://www.virtualbox.org/)
+- [Windows Builtin Virtual Machine Platform (for WSL2 in OSS Linux)](https://docs.microsoft.com/en-us/windows/wsl/wsl2-index)
+- [VirtualBox (for Kali, Ubuntu OS)](https://www.virtualbox.org/)
 
 <h4 id="Databases"><a href="#Databases" class="headerlink" title="Databases"></a><code>Databases:</code></h4>
 
