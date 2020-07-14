@@ -62,10 +62,13 @@ My nationality is Uzbek and I'm only 19 years old 😎
 
 <h3 id="Projects"><a href="#Projects" class="headerlink" title="Projects"></a><code>Projects</code></h3>
 
-- [**Deno**](https://deno.land) 一 Contributor of Javascript and TypeScript Runtime Software
+- [**Deno**](https://deno.land) 一 Contributor of Javascript and TypeScript Runtime Software.
+- [**Lander.js](https://t.me/denoland_bot) 一 Creator of [deno.land](https://deno.land) telegram assistant.
 - [**BSBA™**](https://bsba.uz) 一 Group of 4 senior, master and even a junior friendly developers whose chasing their dreams.
 - [**OSS Linux™**](https://github.com/genemators/oss) 一 Creator of very own operating system full of automation [(Installer for Arch Linux)](https://github.com/genemators/oss). The whole operating system is closed source. Only members of BSBA are allowed to contribute this project!
 - [**Chisel Devs™**](https://chisel.uz) 一 The social group of developer which helps junior developers to get started up.
+- [**Serverland**](https://github.com/genemators/serverland) 一 The server manager for my home server.
+- [**Betalander**](https://github.com/genemators/betalander) 一Minecraft server manager & update written in typescript for [deno.land](https://deno.land).
 
 <hr>
 
