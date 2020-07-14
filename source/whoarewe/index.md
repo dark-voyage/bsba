@@ -38,7 +38,7 @@ As regards to Graphic Designing, our members usually use Cinema 4D & Almost all 
 
 <h3 id="Admins"><a href="#Admins" class="headerlink" title="Who am I"></a><code>List of admins & contributors</code></h3>
 
-+ [Genemator](/genemator) - Founder of the Projects, Senior Developer [(Link)](/genemator)
++ [Genemator](/genemator) - Founder of the Team, Senior Developer [(Link)](/genemator)
 + [Nagai Matsuge](/nagaimatsuge) - Shifter, Master Developer [(Link)](/nagaimatsuge)
 + [Itsuki Jayden](/itsukijayden) - Supporter, Junior Developer [(Link)](/itsukijayden)
 + [Mr.Abdurakhimov](/mrabdurakhimov) - Active Shifter, Master Developer [(Link)](/mrabdurakhimov)
