@@ -68,8 +68,8 @@ My nationality is Uzbek and I'm only 19 years old 😎
 
 <h3 id="Quotes"><a href="#Quotes" class="headerlink" title="Quotes"></a><code>My Quotes</code></h3>
 
-- [**Steam Profile**](https://steamcommunity.com/id/genemator/)
-- [**Discord Server**](https://discord.gg/jUBNnEY)
+- My whole life is turning into if else cases.
+- This life awarded you with a day, don't forget to say "Hello World"
 
 <hr>
 
