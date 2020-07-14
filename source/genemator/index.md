@@ -7,6 +7,7 @@ date: 2020-03-06 19:31:46
 <div class="my-links">
   <a class="gradient-text" href="https://github.com/genemators" target="_blank" rel="noopener"><span class=" iconfont icon-github"></span></a>
   <a class="gradient-text" href="https://t.me/genemator" target="_blank" rel="noopener"><span class=" iconfont icon-qzone"></span></a>
+  <a class="gradient-text" href="https://twitter.com/genemator" target="_blank" rel="noopener"><span class=" iconfont icon-twitter"></span></a>
 </div>
 
 <style>
