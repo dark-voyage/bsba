@@ -76,7 +76,7 @@ My nationality is Uzbek and I'm only 19 years old 😎
 - `Why my program is perfectly running from the first time???` **(2018)**
 - `Jackal jigars for a waste of time.` **(2017)** _[Jigar - from uzbek it's like homies]_
 - `Goodbye, introvert...` **(2016)**
-- `See you later, happines.` **(2015 -> 2020)**
+- `See you later, happines.` **(2015 += 5)**
 - `Damn education, hello socialization.` **(2014)**
 - `I'll be back, Tennese!` **(2006)**
 - `Sister from Tennese?` **(2003)**
