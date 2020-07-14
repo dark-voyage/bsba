@@ -77,7 +77,7 @@ My nationality is Uzbek and I'm only 19 years old 😎
 - Damn education, hello socialization. (2014)
 - I'll be back, Tennese! (2006)
 - Sister from Tennese? (2003)
-- message: db "Hello World", 10, 0 (2001)
+- msg db "Hello World",0xa (2001)
 
 <hr>
 
