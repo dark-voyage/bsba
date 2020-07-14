@@ -110,7 +110,7 @@ My nationality is Uzbek and I'm only 19 years old 😎
 - OSS Linux WSL Edition @ skyrider (Genemator's Choice)
 
 <img src="/img/genemator/linux.jpg" style="height: 200px; width: 400px; border-radius: 10px; margin-bottom: 15px" />
-    
+
 <h4 id="IDE"><a href="#IDE" class="headerlink" title="IDE"></a><code>IDEs:</code></h4>
 
 - [WebStorm](https://www.jetbrains.com/webstorm)
