@@ -32,12 +32,15 @@ date: 2020-03-06 19:31:46
 <img src="/img/genemator/avatar.jpg" style="height: 200px; width: 200px; border-radius: 50%; margin-bottom: 15px" />
 
 
+Hello dear visitor! I'm Sokhibjon Orzikulov, who is famous under the nickname <b style="color: #42d2ca">**三·Genemator**</b>.
+I'm glad to see you visit my website. For the beginning, let me introduce myself. I’m a Senior Full-Stack developer with more than 6 years of experience.
+Although I professionally code using different programming languages, I mainly use C++ for its total controll and wide range of functions.
+That said, my knowledge is not limited to coding. I am also a specialist in creating 3D driven video and photo.
+Besides, I prefer Cinema 4D as 3D engine and utilize Adobe Products for editing purposes.
+I can also create different songs and music for my projects by using special applications on a professional level.
+For the time being, I am a second-year student at Westminster International University in Tashkent.
+My nationality is Uzbek and I'm only 19 years old 😎
 
-Hello dear visitor! I'm Sokhibjon Orzikulov who is famous as <b style="color: #42d2ca"> **三·Genemator** </b>.
-I'm Senior Full-Stack developer. Mainly, I code in Python which offers various useful features for me.
-Also, I can design 3D driven video & photo. I prefer. Cinema 4D as 3D engine and Adobe Products for editing purposes. 
-In addition, I can create musics or tones for my projects. Currently, I study as student of Westminster University in Tashkent. 
-Yes, as you guess I'm Uzbek. 
 
 <hr>
 
