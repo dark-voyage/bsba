@@ -38,8 +38,9 @@ As regards to Graphic Designing, our members usually use Cinema 4D & Almost all 
 
 <h3 id="Projects"><a href="#Projects" class="headerlink" title="Who am I"></a><code>Open source projects</code></h3>
 
-- [Chisel™](https://chisel.uz) 一 Guide Book for Developers
-- [BSBA™ Ecosystem](https://github.com/bsba-team/bsba-ecosystem) 一 Python Django REST API for server management
+- [BSBA™](https://chisel.uz) 一 Team of senior developers
+- [Chisel Devs](https://t.me/iblogs_community) 一 Social group for junior developers to get started up
+- [Educator.uz](https://educator.uz) 一 Place to sharpen your coding skills
 - [Start texting to add your own projects here!](https://t.me/bsba_group)
 <hr>
 

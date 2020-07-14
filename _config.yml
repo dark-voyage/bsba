@@ -79,7 +79,6 @@ deploy:
   type:
 
 # Search Engine
-## Docs: https://github.com/TriDiamond/hexo-theme-obsidian#installation-guide
 search:
   path: search.xml
   field: post

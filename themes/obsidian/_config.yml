@@ -159,7 +159,7 @@ busuanzi:
 # Enable social media sharing
 sharejs:
   enable: true
-  disabled: 'douban,diandian,tencent,qzone,wechat,weibo,qq'
+  disabled: 'douban,diandian,tencent,qzone,wechat,weibo,qq,linkedin,google'
 
 # Use codemirror instead of highlight js for better colors
 # if you want more language support check the modes list at official website
