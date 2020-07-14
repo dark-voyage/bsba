@@ -56,10 +56,10 @@ Yes, as you guess I'm Uzbek.
 
 <h3 id="Projects"><a href="#Projects" class="headerlink" title="Projects"></a><code>Projects</code></h3>
 
-- [**Deno**](https://deno.land) 一 Contributor of Javascript Runtime Software
-- [**BSBA™**](https://bsba.uz) 一 Founder of this project
-- [**OSS Linux™**](https://github.com/genemators/oss) 一 Very own operating system full of automation [(Installer for Arch Linux)](https://github.com/genemators/oss). The whole operating system is closed source!
-- [**Chisel Devs™**](https://chisel.uz) 一 Creator and Active contributor of this project
+- [**Deno**](https://deno.land) 一 Contributor of Javascript and TypeScript Runtime Software
+- [**BSBA™**](https://bsba.uz) 一 Group of 4 senior, master and even a junior friendly developers whose chasing their dreams.
+- [**OSS Linux™**](https://github.com/genemators/oss) 一 Creator of very own operating system full of automation [(Installer for Arch Linux)](https://github.com/genemators/oss). The whole operating system is closed source. Only members of BSBA are allowed to contribute this project!
+- [**Chisel Devs™**](https://chisel.uz) 一 The social group of developer which helps junior developers to get started up.
 
 <hr>
 
@@ -75,11 +75,11 @@ Yes, as you guess I'm Uzbek.
 <h4 id="Machines"><a href="#Machines" class="headerlink" title="Machines"></a><code>Machines:</code></h4>
 
 - ServerLand@10.10.0.1 (Home Server)
-- Black-Hole@10.10.0.2 (Main Computer)
+- Skyrider@10.10.0.2 (Main Computer)
 
 <h4 id="Operation System"><a href="#Operation System" class="headerlink" title="Operation System"></a><code>Operation Systems:</code></h4>
 
-- Windows @ black-hole (Modified Windows by Genemator)
+- Windows @ skyrider (Modified Windows by Genemator)
 
 <img src="/img/genemator/windows.jpg" style="height: 200px; width: 400px; border-radius: 10px; margin-bottom: 15px" />
 
@@ -95,7 +95,7 @@ Yes, as you guess I'm Uzbek.
 - [DataGrip](https://www.jetbrains.com/datagrip)
 - [Rider](https://www.jetbrains.com/rider/)
 - [ReSharper & ReSharper++](https://www.jetbrains.com/resharper-cpp)
-- [Visual Studio Code](https://visualstudio.microsoft.com/)
+- [Visual Studio](https://visualstudio.microsoft.com/)
 - [(Deprecated) XCode](https://developer.apple.com/xcode/)
 
 <h4 id="Editors"><a href="#Editors" class="headerlink" title="Editors"></a><code>Editors:</code></h4>
