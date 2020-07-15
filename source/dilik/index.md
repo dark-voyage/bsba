@@ -2,7 +2,7 @@
 title: dilik
 date: 2020-07-15 18:47:35
 ---
-<img class="hero-image" src="/img/dilik/avatar.jpg" style="padding-bottom: 2em;border-radius: 50%; margin-bottom: 15px;" height="1000" width="1000">
+<img class="hero-image" src="/img/dilik/avatar.jpg" style="padding-bottom: 2em;border-radius: 50%; margin-bottom: 15px;" height="500" width="500">
 
 <div class="my-links">
   <a class="gradient-text" href="https://t.me/orifjonov800" target="_blank" rel="noopener"><span class=" iconfont icon-qzone"></span></a>
