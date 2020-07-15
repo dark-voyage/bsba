@@ -42,6 +42,7 @@ As regards to Graphic Designing, our members usually use Cinema 4D & Almost all 
 + [Nagai Matsuge](/nagaimatsuge) - Shifter, Master Developer [(Link)](/nagaimatsuge)
 + [Itsuki Jayden](/itsukijayden) - Supporter, Junior Developer [(Link)](/itsukijayden)
 + [Mr.Abdurakhimov](/mrabdurakhimov) - Active Shifter, Master Developer [(Link)](/mrabdurakhimov)
++ [Dilik](/dilik) - Active Shifter, Middle Developer [(Link)](/dilik)
 
 There is the list of members our BSBA™ Team. List will be updated every week...
 
