@@ -9,12 +9,7 @@ subtitle: This page does not exist...
 ---
 
 <style>
-  .my-links {display: flex; justify-content: center; align-content: center; margin-top: 30px; width: 100%; font-size: 10rem;}
-  .my-links a {display: flex; color: #000; padding: 2px 10px;border-bottom:none !important;}
-  .my-links a:after {display: none;}
-  .my-links a:hover {backround: #ddd;}
-  .my-links a span {font-size: 28px;}
-  .hero-image {margin: 0 auto;}
+  .404 {display: flex; justify-content: center; align-content: center; margin-top: 30px; width: 100%; font-size: 10rem;}
 
   .dark-obsidian .article .main .content {
     padding: 0 6rem;
@@ -26,4 +21,5 @@ subtitle: This page does not exist...
   }
 </style>
 
+<h1 class="404"><code>404</code></h1>
 <h1 class="my-links"><code>404</code></h1>
