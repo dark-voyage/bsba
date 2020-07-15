@@ -9,7 +9,7 @@ subtitle: This page does not exist...
 ---
 
 <style>
-  .my-links {display: flex; justify-content: center; align-content: center; margin-top: 30px; width: 50%; font-size: 10rem;}
+  .my-links {display: flex; justify-content: center; align-content: center; margin-top: 30px; width: 100%; font-size: 10rem;}
   .my-links a {display: flex; color: #000; padding: 2px 10px;border-bottom:none !important;}
   .my-links a:after {display: none;}
   .my-links a:hover {backround: #ddd;}
