@@ -16,6 +16,6 @@ subtitle: This page does not exist...
 </style>
 
 <div class='404'>
-    <div class="centred"><code>404</code></div>
+    <h4 id="404" class="centred"><a href="#404" class="headerlink" title="404"></a><code>404</code></h4>
 </div>​
 
