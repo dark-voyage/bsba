@@ -15,8 +15,9 @@ subtitle: This page does not exist...
         height: 50px;
         top: 50%;
         left: 50%;
-        margin-left: -50px; /* margin is -0.5 * dimension */
-        margin-top: -25px; 
+        margin-left: -175px;
+        margin-top: -125px; 
+        font-size: 15em;
     }​
 </style>
 
