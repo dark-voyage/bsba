@@ -26,4 +26,4 @@ subtitle: This page does not exist...
   }
 </style>
 
-<h1 class="my-links">404</h1>
+<h1 class="my-links"><code>404</code></h1>
