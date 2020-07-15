@@ -19,7 +19,6 @@ subtitle: This page does not exist...
         margin-top: -125px; 
         font-size: 15em;
         text-align: center;
-
     }​
 </style>
 
