@@ -116,7 +116,7 @@ lesshat-selector {
     <div class="loader-line-mask">
       <div class="loader-line"></div>
     </div>
-    <img class="loader-image-forward" src="./parallax.png" alt="" width="270px" height="270px">
+    <img class="loader-image-forward" src="/img/logo.png" alt="" width="270px" height="270px">
   </div>
 </div>
 <!-- partial -->
