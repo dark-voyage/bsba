@@ -53,6 +53,7 @@ h2{
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
+  fill: linear-gradient(to right, #373b44, #4286f4);
 }
   </style>
 <svg id="svgWrap_2" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewBox="0 0 700 250">
