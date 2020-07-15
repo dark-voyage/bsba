@@ -28,6 +28,8 @@ date: 2020-07-15 18:47:35
 
 <i class="my-links">Success is not final; failure is not fatal: It is the courage to continue that counts. © Dilik</i>
 
+<hr>
+
 <h3 id="Who-am-I"><a href="#Who-am-I" class="headerlink" title="Who am I"></a><code>Who am I</code></h3>
 
 Hello, dear visitor! My full name is Dilshodbek Orifjonov, who is being full stack developer under the nickname Dilik. 
@@ -45,6 +47,8 @@ I use HTML5, Bootstrap4, CSS, JS and jQuery.
 - [Bootstrap 4](https://getbootstrap.com/)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [jQuery](https://jquery.com/)
+
+<hr>
 
 <h3 id="Projects"><a href="#Projects" class="headerlink" title="Projects"></a><code>Projects</code></h3>
 

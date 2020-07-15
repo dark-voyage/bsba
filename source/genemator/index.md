@@ -30,6 +30,8 @@ date: 2020-03-06 19:31:46
 
 <i class="my-links">Errors & bugs can be fixed. However, life faults won't be! © Genemator</i>
 
+<hr>
+
 <h3 id="Who-am-I"><a href="#Who-am-I" class="headerlink" title="Who am I"></a><code>Who am I</code></h3>
 
 Hello dear visitor! I'm Sokhibjon Orzikulov, who is famous under the nickname <b style="color: #42d2ca">**三·Genemator**</b>.
