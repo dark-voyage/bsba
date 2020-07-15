@@ -69,11 +69,11 @@ avatar: /img/genemator/avatar.jpg
 scrollbar: true
 
 # Website keywords used for SEO
-keywords: Genemator BSBA™
+keywords: Genemator BSBA™ Development Developer HTML CSS Javascript Python C++ Scoop APT Homebrew Macos Windows Linux
 
 # Website slogans
-descriptionOne: "A cup of coffee, anime and beautiful codes. Dream day..."
-descriptionTwo: "Usually, I don't sleep at night, because codin' gives me pleasure..."
+descriptionOne: "Any fool can write code that a computer can understand. Good programmers write code that humans can understand."
+descriptionTwo: "Code is like humor. When you have to explain it, it’s bad."
 
 # If you use google analytics, please fill in the ID
 google_analytics: 'UA-155986117-1'
