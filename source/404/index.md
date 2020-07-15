@@ -10,19 +10,12 @@ subtitle: This page does not exist...
 
 <style>
     .centred {
-        position: absolute;
-        width: 100px;
-        height: 50px;
-        top: 50%;
-        left: 50%;
-        margin-left: -175px;
-        margin-top: -125px; 
-        font-size: 15em;
+        font-size: 100%;
         text-align: center;
     }​
 </style>
 
 <div class='404'>
-    <div class="centred">404</div>
+    <div class="centred"><code>404</code></div>
 </div>​
 
