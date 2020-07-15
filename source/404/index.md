@@ -54,42 +54,6 @@ h2{
   left: 50%;
   transform: translate(-50%, -50%);
 }
-
-#svgWrap_1,
-#svgWrap_2,
-div{
-  animation: hueRotate 6s ease-in-out 3s infinite;
-}
-
-#id1_1,
-#id2_1,
-#id3_1{
-  stroke: #ff005d;
-  stroke-width: 3px;
-  fill: transparent;
-  filter: url(#glow);
-}
-
-#id1_2,
-#id2_2,
-#id3_2{
-  stroke: #12000a;
-  stroke-width: 3px;
-  fill: transparent;
-  filter: url(#glow);
-}
-
-#id3_1{
-  stroke-dasharray: 940px;
-  stroke-dashoffset: -940px;
-  animation: drawLine3 2.5s ease-in-out 0s forwards, flicker3 4s linear 4s infinite;
-}
-
-#id2_1{
-  stroke-dasharray: 735px;
-  stroke-dashoffset: -735px;
-  animation: drawLine2 2.5s ease-in-out 0.5s forwards, flicker2 4s linear 4.5s infinite;
-}
   </style>
 <svg id="svgWrap_2" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewBox="0 0 700 250">
   <g>
