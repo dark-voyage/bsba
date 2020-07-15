@@ -20,6 +20,6 @@
   },
   "scripts": {
     "dev": "hexo server -p 5000",
-    "build": "hexo generate && cp 404.html public/404/ && mv 404.html public/ && echo Copy completed"
+    "build": "hexo generate"
   }
 }
