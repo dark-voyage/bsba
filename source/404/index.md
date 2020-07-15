@@ -8,5 +8,5 @@ permalink: /404
 subtitle: This page does not exist...
 ---
 
-<h1 id="404"><code>404</code></h1>
+<h1 id="404" class="my-links"><code>404</code></h1>
 
