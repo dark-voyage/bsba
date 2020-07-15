@@ -32,11 +32,12 @@ date: 2020-07-15 18:47:35
 
 <h3 id="Who-am-I"><a href="#Who-am-I" class="headerlink" title="Who am I"></a><code>Who am I</code></h3>
 
-Hello, dear visitor! My full name is Dilshodbek Orifjonov, who is being full stack developer under the nickname Dilik. 
-I am happy to see you visit our website. let me for beginning introduce myself. 
-I am an active middle developer with more than 2 years of experience. 
-I am a front-end developer and I do my job with maximum potential. 
-I use HTML5, Bootstrap4, CSS, JS and jQuery.
+**Hello, dear visitor!**
+**My full name is Dilshodbek Orifjonov, who is being full stack developer under the nickname Dilik.**
+**I am happy to see you visit our website. let me for beginning introduce myself.**
+**I am an active middle developer with more than 2 years of experience.**
+**I am a front-end developer and I do my job with maximum potential.**
+**I use HTML5, Bootstrap4, CSS, JS and jQuery.**
 
 <hr>
 
