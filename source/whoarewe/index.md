@@ -79,7 +79,7 @@ As regards to Graphic Designing, our members usually use Cinema 4D & Almost all 
 + [Saeween](https://t.me/saeween) - Nerd, Junior Developer [(Link)](https://t.me/saeween)
 + [RJ](https://t.me/RasulRJ) - Active Designer, Junior Developer [(Link)](https://t.me/RasulRJ)
 + [iCloudMTX](https://t.me/iCloudMTX) - Active Member, Master Developer [(Link)](https://t.me/iCloudMTX)
-+ [Harry](https://t.me/Yanliz28041310) - Active Member, Middle Developer [(Link)](https://t.me/Yanliz28041310)
++ [Harry](https://t.me/Yanliz28041310) - Active Coder, Middle Developer [(Link)](https://t.me/Yanliz28041310)
 
 
 <hr>
