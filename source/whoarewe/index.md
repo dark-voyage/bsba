@@ -77,7 +77,7 @@ As regards to Graphic Designing, our members usually use Cinema 4D & Almost all 
 <h4 id="Members" style="text-align: center;"><a href="#Members" class="headerlink" title="Members"></a><code>There is a list of members our BSBA™ Team. List will be updated every week...</code></h4>
 
 + [Saeween](https://t.me/saeween) - Nerd, Junior Developer [(Link)](https://t.me/saeween)
-+ [RJ](https://t.me/RasulRJ) - Participant, Junior Developer [(Link)](https://t.me/RasulRJ)
++ [RJ](https://t.me/RasulRJ) - Active Designer, Junior Developer [(Link)](https://t.me/RasulRJ)
 + [iCloudMTX](https://t.me/iCloudMTX) - Active Member, Master Developer [(Link)](https://t.me/iCloudMTX)
 + [Harry](https://t.me/Yanliz28041310) - Active Member, Middle Developer [(Link)](https://t.me/Yanliz28041310)
 
