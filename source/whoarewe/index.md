@@ -36,7 +36,7 @@ As regards to Graphic Designing, our members usually use Cinema 4D & Almost all 
 
 <hr>
 
-<h3 id="Admins"><a href="#Admins" class="headerlink" title="Who am I"></a><code>List of admins & contributors</code></h3>
+<h3 id="Admins"><a href="#Admins" class="headerlink" title="Admins"></a><code>List of admins & contributors</code></h3>
 
 <table style="width:100%; text-align: center;">
   <caption style="padding-bottom: 10px"><h3><code>Staff Members</code></h3></caption>
@@ -84,7 +84,7 @@ As regards to Graphic Designing, our members usually use Cinema 4D & Almost all 
 
 <hr>
 
-<h3 id="Projects"><a href="#Projects" class="headerlink" title="Who am I"></a><code>Hounorable Projects</code></h3>
+<h3 id="Projects"><a href="#Projects" class="headerlink" title="Projects"></a><code>Hounorable Projects</code></h3>
 
 - [BSBA™](https://bsba.uz) 一 Team of senior developers.
 - [Chisel Devs](https://t.me/iblogs_community) 一 Social group for junior developers to get started up.
