@@ -8,5 +8,19 @@ permalink: /404
 subtitle: This page does not exist...
 ---
 
-<h1 id="404" style="bottom:50%;left:50%;font-size:large;text-align:center;"><code>404</code></h1>
+<style>
+    .centred {
+        position: absolute;
+        width: 100px;
+        height: 50px;
+        top: 50%;
+        left: 50%;
+        margin-left: -50px; /* margin is -0.5 * dimension */
+        margin-top: -25px; 
+    }​
+</style>
+
+<div class='404'>
+    <div class="centred"><code>404</code></div>
+</div>​
 
