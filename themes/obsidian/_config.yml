@@ -93,7 +93,8 @@ autoplay: false
 
 # default mp3 file
 mp3:
-  - statics/vibe.mp3
+  - statics/follow.mp3
+  - statics/lightning.mp3
 
 # ---------------------------------------------------------------
 # Plugins
