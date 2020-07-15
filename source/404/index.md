@@ -10,28 +10,18 @@ subtitle: This page does not exist...
 
   <style>
     @import url('https://fonts.googleapis.com/css?family=Audiowide&display=swap');
-div{
-  position: absolute;
-  top: 0%;
-  left: 0%;
-  height: 100%;
-  width: 100%;
-  margin: 0px;
-  background: radial-gradient(circle, #240015 0%, #12000b 100%);
-  overflow: hidden;
-}
 
-#svgWrap_1,
-#svgWrap_2{
-  position: absolute;
-  height: auto;
-  width: 600px;
-  max-width: 100%;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  fill: linear-gradient(to right, #373b44, #4286f4);
-}
+    #svgWrap_1,
+    #svgWrap_2{
+      position: absolute;
+      height: auto;
+      width: 600px;
+      max-width: 100%;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      fill: linear-gradient(to right, #373b44, #4286f4);
+    }
   </style>
 <svg id="svgWrap_2" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewBox="0 0 700 250">
   <g>
