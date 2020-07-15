@@ -8,5 +8,5 @@ permalink: /404
 subtitle: This page does not exist...
 ---
 
-<h1 id="404" style="bottom:50%;left:50%;font-size:large;"><code>404</code></h1>
+<h1 id="404" style="bottom:50%;left:50%;font-size:large;text-align:center;"><code>404</code></h1>
 
