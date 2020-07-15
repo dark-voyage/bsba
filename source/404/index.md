@@ -24,6 +24,6 @@ subtitle: This page does not exist...
 </style>
 
 <div class='404'>
-    <div class="centred"><code>404</code></div>
+    <div class="centred">404</div>
 </div>​
 
