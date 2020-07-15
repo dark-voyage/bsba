@@ -8,14 +8,6 @@ permalink: /404
 subtitle: This page does not exist...
 ---
 
-<style>
-    .centred {
-        font-size: 100%;
-        text-align: center;
-    }​
-</style>
+<img class="hero-image" src="/img/genemator/Portfolio.png" style="padding-bottom: 2em;" height="500" width="1000">
 
-<div class='404'>
-    <h4 id="404" class="centred"><a href="#404" class="headerlink" title="404"></a><code>404</code></h4>
-</div>​
 
