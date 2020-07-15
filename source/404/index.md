@@ -8,4 +8,4 @@ permalink: /404
 subtitle: This page does not exist...
 ---
 
-<img class="hero-image" src="/img/genemator/Portfolio.png" style="padding-bottom: 2em;" height="500" width="1000">
+<img class="hero-image" src="/img/drawcode.svg" style="padding-bottom: 2em;" height="500" width="1000">
