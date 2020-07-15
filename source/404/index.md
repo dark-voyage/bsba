@@ -21,29 +21,6 @@ div{
   overflow: hidden;
 }
 
-.wrap{
-  position: absolute;
-  left: 50%;
-  top: 50%;
-  transform: translate(-50%, -50%);
-}
-
-h2{
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  margin-top: 150px;
-  font-size: 32px;
-  text-transform: uppercase;
-  transform: translate(-50%, -50%);
-  display: block;
-  color: #12000a;
-  font-weight: 300;
-  font-family: Audiowide;
-  text-shadow: 0px 0px 4px #12000a;
-  animation: fadeInText 3s ease-in 3.5s forwards, flicker4 5s linear 7.5s infinite, hueRotate 6s ease-in-out 3s infinite;
-}
-
 #svgWrap_1,
 #svgWrap_2{
   position: absolute;
