@@ -38,13 +38,49 @@ As regards to Graphic Designing, our members usually use Cinema 4D & Almost all 
 
 <h3 id="Admins"><a href="#Admins" class="headerlink" title="Who am I"></a><code>List of admins & contributors</code></h3>
 
-+ [Genemator](/genemator) - Founder of the Team, Senior Developer [(Link)](/genemator)
-+ [Nagai Matsuge](/nagaimatsuge) - Shifter, Master Developer [(Link)](/nagaimatsuge)
-+ [Itsuki Jayden](/itsukijayden) - Supporter, Junior Developer [(Link)](/itsukijayden)
-+ [Mr.Abdurakhimov](/mrabdurakhimov) - Active Shifter, Master Developer [(Link)](/mrabdurakhimov)
-+ [Dilik](/dilik) - Active Shifter, Middle Developer [(Link)](/dilik)
+<table style="width:100%; text-align: center;">
+  <caption style="padding-bottom: 10px"><h3><code>Staff Members</code></h3></caption>
+  <tr>
+    <th colspan="2">
+      <a href="/genemator">
+        <span style="color: #000; font-size: 150%; background-image: url(https://howdyho.net/media/images/bg/bg24.gif); text-shadow: 1px 1px 1px rgba(0,0,0,.5)!important; background-position: center center; background-size: cover; background-repeat: no-repeat;">Genemator</span><br><code>Founder, Creator</code><br><code>Senior Developer</code>
+      </a>
+    </th>
+  </tr>
+  <tr>
+    <td>
+      <a href="/nagaimatsuge">
+        <span style="background: -webkit-linear-gradient(#1a2a6c, #b21f1f, #fdbb2d);   -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Nagai Matsuge</span><br><code>Co-Founder</code><br><code>Master Developer</code>
+      </a>
+    </td>
+    <td>
+      <a href="/itsukijayden">
+        <span style="background: -webkit-linear-gradient(#009FFF, #ec2F4B);   -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Itsuki Jayden</span><br><code>Supporter</code><br><code>Middle Developer</code>
+      </a>
+    </td>
+    </tr>
+  <tr>
+    <td>
+      <a href="/mrabdurakhimov">
+       <span style="background: -webkit-linear-gradient(#000000, #0f9b0f);   -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Mr.Abdurakhimov</span><br><code>Active Shifter</code><br><code>Master Developer</code>
+      </a>
+    </td>
+    <td>
+      <a href="/dilik">
+        <span style="background: -webkit-linear-gradient(#200122, #6f0000);   -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Dilik</span>
+        <br><code>Active Shifter</code><br><code>Middle Developer</code>
+      </a>
+    </td>
+  </tr>
+</table>
 
-There is the list of members our BSBA™ Team. List will be updated every week...
+<h4 id="Members" style="text-align: center;"><a href="#Members" class="headerlink" title="Members"></a><code>There is a list of members our BSBA™ Team. List will be updated every week...</code></h4>
+
++ [Saeween](https://t.me/saeween) - Nerd, Junior Developer [(Link)](https://t.me/saeween)
++ [RJ](https://t.me/RasulRJ) - Participant, Junior Developer [(Link)](https://t.me/RasulRJ)
++ [iCloudMTX](https://t.me/iCloudMTX) - Active Member, Master Developer [(Link)](https://t.me/iCloudMTX)
++ [Harry](https://t.me/Yanliz28041310) - Active Member, Middle Developer [(Link)](https://t.me/Yanliz28041310)
+
 
 <hr>
 
