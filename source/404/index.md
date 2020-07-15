@@ -8,6 +8,4 @@ permalink: /404
 subtitle: This page does not exist...
 ---
 
-<div class="my-links">
-    <h1 class="gradient-text">404</h1>
-</div>
+<img class="hero-image" src="/img/genemator/Portfolio.png" style="padding-bottom: 2em;" height="500" width="1000">
