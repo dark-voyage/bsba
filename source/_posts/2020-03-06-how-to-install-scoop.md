@@ -4,7 +4,7 @@ date: 2020-03-06 22:20:41
 categories:
   - Shell
 tags:
-  - Packet Manager
+  - Package Manager
   - Shell
   - Powershell
   - Windows

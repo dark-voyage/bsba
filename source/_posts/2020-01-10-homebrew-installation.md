@@ -7,7 +7,7 @@ tags:
   - HomeBrew
   - Brew
   - Terminal
-  - Packet Manager
+  - Package Manager
 cover: https://i.ibb.co/kD9q6N4/mac-for-hackers-set-up-homebrew-install-update-open-source-tools-1280x600.jpg
 ---
 
