@@ -74,6 +74,42 @@ As regards to Graphic Designing, our members usually use Cinema 4D & Almost all 
   </tr>
 </table>
 
+<table style="width:100%; text-align: center;">
+  <caption style="padding-bottom: 10px"><h3><code>Team <b>UNiSOCKETS</b></code></h3></caption>
+  <tr>
+    <th colspan="2">
+      <a href="/genemator">
+        <span style="color: #000; font-size: 150%; background-image: url(https://howdyho.net/media/images/bg/bg24.gif); text-shadow: 1px 1px 1px rgba(0,0,0,.5)!important; background-position: center center; background-size: cover; background-repeat: no-repeat;">Genemator</span><br><code>Sensei</code><br><code>Senior Developer</code>
+      </a>
+    </th>
+  </tr>
+  <tr>
+    <td>
+      <a href="/mrabdurakhimov">
+        <span style="background: -webkit-linear-gradient(#1a2a6c, #b21f1f, #fdbb2d);   -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Mr.Abdurakhimov</span><br><code>Team Rep</code><br><code>Master Developer</code>
+      </a>
+    </td>
+    <td>
+      <a href="https://t.me/Saeween">
+        <span style="background: -webkit-linear-gradient(#009FFF, #ec2F4B);   -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Saeween</span><br><code>Team Rep</code><br><code>Middle Developer</code>
+      </a>
+    </td>
+    </tr>
+  <tr>
+    <td>
+      <a href="https://t.me/iCloudMTX">
+       <span style="background: -webkit-linear-gradient(#000000, #0f9b0f);   -webkit-background-clip: text; -webkit-text-fill-color: transparent;">iCloudMTX</span><br><code>Student</code><br><code>Master Developer</code>
+      </a>
+    </td>
+    <td>
+      <a href="https://t.me/Yanliz28041310">
+        <span style="background: -webkit-linear-gradient(#200122, #6f0000);   -webkit-background-clip: text; -webkit-text-fill-color: transparent;">H.Snowden</span>
+        <br><code>Student</code><br><code>Junior Developer</code>
+      </a>
+    </td>
+  </tr>
+</table>
+
 <h4 id="Members" style="text-align: center;"><a href="#Members" class="headerlink" title="Members"></a><code>There is a list of members our BSBA™ Team.</code></h4>
 
 + [Saeween](https://t.me/saeween) - Nerd, Junior Developer [(Link)](https://t.me/saeween)
