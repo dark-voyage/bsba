@@ -143,7 +143,6 @@ As regards to Graphic Designing, our members usually use Cinema 4D & Almost all 
 
 <h4 id="Members" style="text-align: center;"><code>List will be updated every week...</code></h4>
 
-
 <hr>
 
 <h3 id="Projects"><a href="#Projects" class="headerlink" title="Projects"></a><code>Hounorable Projects</code></h3>
@@ -154,4 +153,11 @@ As regards to Graphic Designing, our members usually use Cinema 4D & Almost all 
 - [iBlogs](https://www.youtube.com/channel/UCLvAJjc5gvy_6QL2f-RRBuw) - a YouTube channel where [Mr.Abdurakhimov](/mrabdurakhimov) (the honourable follower of [Genemator](/genemator)) shares his experiences.
 - [Start texting to add your own projects here!](https://t.me/bsba_group)
 
+<hr>
 
+<h3 id="Communities"><a href="#Communities" class="headerlink" title="Communities"></a><code>Community Groups & Channels</code></h3>
+
+- [UNiSOCKETS](https://t.me/UNiSOCKETS) 一 Group of Genemator's Students, enter for students of Genemator only!
+- [Chisel Devs](https://t.me/iblogs_community) 一 Social group for junior developers to get started up.
+- [~R8](https://t.me/bsba_r8) 一 Place to exchange tricks & tips. Also, development questions could be asked too!
+- [Offtopic](https://t.me/bsba_group) 一 A group where members of BSBA™ can discuss about anime & gaming.
