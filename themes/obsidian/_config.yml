@@ -35,7 +35,6 @@ version: "1.4.3"
 
 # Menu setting | format = title_name: link_url
 menu:
-  DEV: https://chisel.uz
   ABOUT US: /whoarewe
   CATEGORIES: /categories
   TAGS: /tags
