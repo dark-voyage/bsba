@@ -32,6 +32,8 @@ date: 2020-03-06 19:31:46
 
 <hr>
 
+<img src="/img/genemator/avatar.jpg" style="height: 200px; width: 200px; border-radius: 50%; margin-bottom: 15px" />
+
 <h3 id="Who-am-I"><a href="#Who-am-I" class="headerlink" title="Who am I"></a><code>Who am I</code></h3>
 
 Hello dear visitor! I'm Sokhibjon Orzikulov, who is famous under the nickname <b style="color: #42d2ca">**三·Genemator**</b>.
