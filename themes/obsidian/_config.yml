@@ -35,7 +35,7 @@ version: "1.4.3"
 
 # Menu setting | format = title_name: link_url
 menu:
-  HELPER: https://t.me/bsba_bot
+  HELPER: tg://resolve?domain=bsba_bot
   ABOUT US: /whoarewe
   CATEGORIES: /categories
   TAGS: /tags
