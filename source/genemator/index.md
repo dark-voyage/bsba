@@ -52,11 +52,8 @@ My nationality is Uzbek and I'm only 19 years old 😎
 - [**JavaScript (EcmaScript 2019)**](https://en.wikipedia.org/wiki/ECMAScript)
 - [**TypeScript 3, Preview 4**](https://www.typescriptlang.org/)
 - [**Python 2,3**](https://www.python.org/)
-- [**Java**](https://www.java.com/en/)
-- [**Kotlin**](https://kotlinlang.org/)
 - [**C++ (2020 Preview)**](https://en.wikipedia.org/wiki/C%2B%2B)
-- [**C (C18 Standard Revision)**](https://en.wikipedia.org/wiki/C_(programming_language))
-- [**Assembly (used actively in os modification)**](https://en.wikipedia.org/wiki/Assembly_language)
+
 
 <hr>
 
