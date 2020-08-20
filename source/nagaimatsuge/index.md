@@ -17,13 +17,15 @@ date: 2020-03-06 20:11:21
 
 <img src="/img/nagaimatsuge/avatar.jpg" style="height: 200px; width: 200px; border-radius: 50%; margin-bottom: 15px" />
 
-Strong Middle/ Senior PHP Developer.
+Middle/ Senior PHP/VueJs Developer.
 
 Good time of the day, says admin of the BSBA team. Living 18 years and loving programming, this guy specialises in web development and has done some progress.
 
-For the FrontEnd: Html5, Css3, Js, ES6, JQuery.
-Alternatively, for the backend: The work is done with PHP7+, OOP PHP/Protcedural, Restful API, MySQL/Postgres, ORM, RBAC, PSR, ElasticSearch/Manticore/Sphinx and with the help of frameworks like Bootstrap4  for UI and Yii2 in general.
-Ablity to work separately with Apache or Nginx(Load Balancer with Nginx), MySql or Postgres. Also, experience in both Windows and Linux environment. Familiar with both command line and bash.   
+For the FrontEnd: Html5, Css3, Js, ES6, JQuery. For SPAs VueJS is used. These skills include Vue-Router, Vuex, Axios for APIs. More importantly, some decent understanding of Css and making complicated styling.
+
+Alternatively, for the backend: The work is done with PHP7+, OOP PHP/Protcedural, Restful API, MySQL/Postgres, ORM, RBAC, PSR, ElasticSearch/Manticore/Sphinx and with the help of frameworks like Bootstrap4 for UI and Laravel in general.
+
+Ablity to work separately with Apache or Nginx(Load Balancer with Nginx), MySql or Postgres. Also, experience in both Windows and Linux environment. Familiar with both command line and bash.
 
 And plus for this, I have some experience with Telephony systems. Here I can include: Asterisk, AMI, ARI, FreePBX for SysAd, AutoDialer, telephony for small call-centers, have made my own Alternative for Fop2.
 
