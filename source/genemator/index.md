@@ -73,30 +73,6 @@ My nationality is Uzbek and I'm only 19 years old 😎
 
 <hr>
 
-<h3 id="Quotes"><a href="#Quotes" class="headerlink" title="Quotes"></a><code>My Yearly Lifetime Quotes</code></h3>
-
-- `My whole life is turning into if else cases.` **(2020)** _> Present_
-- `This life awarded you with a day, so don't forget to say "Hello World" in response.` **(2019)**
-- `Why my program is perfectly running from the first time???` **(2018)**
-- `Jackal jigars for a waste of time.` **(2017)** _[Jigar - from uzbek it's like homies]_
-- `From today, I'm your sensei!` **(2016)**
-- `See ya later, happines.` **(2015 += 5)**
-- `Damn education, hello socialization.` **(2014)**
-- `At the first sight of you...` **(2013)**
-- `print "first step to the future"` **(2012)**
-- `My dear class teacher, the demoness from the hell` **(2011)**
-- `The born of Sultan to be success.` **(2010)**
-- `Brothers for gaming life.` **(2009)**
-- `Study for achievements, forget the future.` **(2008)**
-- `The capital of Uzbekistan is Tashkent.` **(2007)**
-- `I'll be back, Tennese!` **(2006)**
-- `Thank you for warm memories, Murfresboro City Pre-School.` **(2005)**
-- `American best girl friend not girlfriend.` **(2004)**
-- `Sister from Tennese?` **(2003)**
-- `Are you ready for an American Journey?` **(2002)**
-- `std::cout << "Hello World!";` **(2001)**
-
-<hr>
 
 <h3 id="Gears"><a href="#Gears" class="headerlink" title="Gears"></a><code>Development Gears & Machines</code></h3>
 
