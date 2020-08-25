@@ -73,29 +73,3 @@ As regards to Graphic Designing, our members usually use Cinema 4D & Almost all 
     </td>
   </tr>
 </table>
-
-<h4 id="Members" style="text-align: center;"><a href="#Members" class="headerlink" title="Members"></a><code>There is a list of members our BSBA™ Team.</code></h4>
-
-+ [SC](https://t.me/zieuw) - Newbie, Skill Unknown [(Link)](https://t.me/zieuw)
-+ [😈]() - Active Learner, Junior Developer [(Link)](https://t.me/UNiSOCKETS)
-
-<h4 id="Members" style="text-align: center;"><code>List will be updated every week...</code></h4>
-
-<hr>
-
-<h3 id="Projects"><a href="#Projects" class="headerlink" title="Projects"></a><code>Hounorable Projects</code></h3>
-
-- [BSBA™](https://bsba.uz) 一 Team of senior developers.
-- [Chisel Devs](https://t.me/iblogs_community) 一 Social group for junior developers to get started up.
-- [Educator.uz](https://educator.uz) 一 Place to sharpen your coding skills.
-- [iBlogs](https://www.youtube.com/channel/UCLvAJjc5gvy_6QL2f-RRBuw) - a YouTube channel where [Mr.Abdurakhimov](/mrabdurakhimov) (the honourable follower of [Genemator](/genemator)) shares his experiences.
-- [Start texting to add your own projects here!](https://t.me/bsba_group)
-
-<hr>
-
-<h3 id="Communities"><a href="#Communities" class="headerlink" title="Communities"></a><code>Community Groups & Channels</code></h3>
-
-- [UNiSOCKETS](https://t.me/UNiSOCKETS) 一 Group of Genemator's Students, enter for students of Genemator only!
-- [Chisel Devs](https://t.me/iblogs_community) 一 Social group for junior developers to get started up.
-- [~R8](https://t.me/bsba_r8) 一 Place to exchange tricks & tips. Also, development questions could be asked too!
-- [Offtopic](https://t.me/bsba_group) 一 A group where members of BSBA™ can discuss about anime & gaming.
