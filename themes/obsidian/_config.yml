@@ -35,7 +35,6 @@ version: "1.4.3"
 
 # Menu setting | format = title_name: link_url
 menu:
-  HELPER: tg://resolve?domain=bsba_bot
   ABOUT US: /whoarewe
   CATEGORIES: /categories
   TAGS: /tags
@@ -49,9 +48,9 @@ page_titles:
 
 # Social media links
 socials:
-  github: "https://github.com/genemators"
+  github: "https://github.com/bsba-team"
   twitter: "https://twitter.com/genemator"
-  telegram: "https://t.me/genemator"
+  telegram: "https://t.me/bsba_group"
 
 # Enable table of content
 TOC: true
@@ -63,13 +62,13 @@ welcome_cover: /img/cover.jpg
 cover: /img/welcome-cover.jpg
 
 # Avatar
-avatar: /img/genemator/avatar.jpg
+avatar: /img/logo_icon.png
 
 # Disable default scrollbar
 scrollbar: true
 
 # Website keywords used for SEO
-keywords: Genemator BSBA™ Development Developer HTML CSS Javascript Python C++ Scoop APT Homebrew Macos Windows Linux
+keywords: BSBA™ Development Developer HTML CSS Javascript Python C++ Scoop APT Homebrew Macos Windows Linux
 
 # Website slogans
 descriptionOne: "It’s harder to read code than to write it."
