@@ -6,7 +6,7 @@ date: 2020-02-20 03:21:16
 
 <div class="my-links">
   <a class="gradient-text" href="https://github.com/bsba-team" target="_blank" rel="noopener"><span class=" iconfont icon-github"></span></a>
-  <a class="gradient-text" href="https://t.me/iBlogs_community" target="_blank" rel="noopener"><span class=" iconfont icon-qzone"></span></a>
+  <a class="gradient-text" href="https://t.me/bsba_group" target="_blank" rel="noopener"><span class=" iconfont icon-qzone"></span></a>
 </div>
 
 <style>
