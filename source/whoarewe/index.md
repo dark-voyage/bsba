@@ -74,68 +74,6 @@ As regards to Graphic Designing, our members usually use Cinema 4D & Almost all 
   </tr>
 </table>
 
-<table style="width:100%; text-align: center;">
-  <caption style="padding-bottom: 10px"><h3><a href="https://t.me/UNiSOCKETS"><code>Team <b>UNiSOCKETS</b></code></a></h3></caption>
-  <tr>
-    <th colspan="2">
-      <a href="/genemator">
-        <span style="color: #000; font-size: 150%; background-image: url(https://howdyho.net/media/images/bg/bg24.gif); text-shadow: 1px 1px 1px rgba(0,0,0,.5)!important; background-position: center center; background-size: cover; background-repeat: no-repeat;">Genemator</span><br><code>Sensei</code><br><code>Senior Developer</code>
-      </a>
-    </th>
-  </tr>
-  <tr>
-    <td>
-      <a href="/mrabdurakhimov">
-        <span style="background: -webkit-linear-gradient(#f6d365, #fda085);   -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Mr.Abdurakhimov</span><br><code>Team Rep</code><br><code>Master Developer</code>
-      </a>
-    </td>
-    <td>
-      <a href="https://t.me/Saeween">
-        <span style="background: -webkit-linear-gradient(#fbc2eb, #a6c1ee);   -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Saeween</span><br><code>Team Rep</code><br><code>Middle Developer</code>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://t.me/iCloudMTX">
-       <span style="background: -webkit-linear-gradient(#fdcbf1, #e6dee9);   -webkit-background-clip: text; -webkit-text-fill-color: transparent;">iCloudMTX</span><br><code>Student</code><br><code>Master Developer</code>
-      </a>
-    </td>
-    <td>
-      <a href="https://t.me/Yanliz28041310">
-        <span style="background: -webkit-linear-gradient(#a1c4fd, #c2e9fb);   -webkit-background-clip: text; -webkit-text-fill-color: transparent;">H.Snowden</span>
-        <br><code>Student</code><br><code>Junior Developer</code>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://t.me/softclubuz_llc">
-       <span style="background: -webkit-linear-gradient(#d4fc79, #96e6a1);   -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Dj Medium</span><br><code>Student</code><br><code>Junior Developer</code>
-      </a>
-    </td>
-    <td>
-      <a href="https://t.me/beggi7777777">
-        <span style="background: -webkit-linear-gradient(#a6c0fe, #f68084);   -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Beggi</span>
-        <br><code>Student</code><br><code>Junior Developer</code>
-      </a>
-    </td>
-  </tr>
-    <tr>
-      <td>
-        <a href="https://t.me/sobranie_0">
-         <span style="background: -webkit-linear-gradient(#e0c3fc, #8ec5fc);   -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Red</span><br><code>Student</code><br><code>Junior Developer</code>
-        </a>
-      </td>
-      <td>
-        <a href="https://t.me/Vesonify">
-          <span style="background: -webkit-linear-gradient(#4facfe, #00f2fe);   -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Vesonify</span>
-          <br><code>Student</code><br><code>Junior Developer</code>
-        </a>
-      </td>
-    </tr>
-</table>
-
 <h4 id="Members" style="text-align: center;"><a href="#Members" class="headerlink" title="Members"></a><code>There is a list of members our BSBA™ Team.</code></h4>
 
 + [SC](https://t.me/zieuw) - Newbie, Skill Unknown [(Link)](https://t.me/zieuw)
