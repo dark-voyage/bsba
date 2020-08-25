@@ -43,7 +43,7 @@ As regards to Graphic Designing, our members usually use Cinema 4D & Almost all 
   <tr>
     <th colspan="2">
       <a href="/genemator">
-        <span style="color: #000; font-size: 150%; background-image: url(https://howdyho.net/media/images/bg/bg24.gif); text-shadow: 1px 1px 1px rgba(0,0,0,.5)!important; background-position: center center; background-size: cover; background-repeat: no-repeat;">Genemator</span><br><code>Founder, Creator</code><br><code>Senior Developer</code>
+        <span style="color: #000; font-size: 150%; background-image: url(https://howdyho.net/media/images/bg/bg24.gif); text-shadow: 1px 1px 1px rgba(0,0,0,.5)!important; background-position: center center; background-size: cover; background-repeat: no-repeat;">Genemator (left the project)</span><br><code>Founder, Creator</code><br><code>Senior Developer</code>
       </a>
     </th>
   </tr>
