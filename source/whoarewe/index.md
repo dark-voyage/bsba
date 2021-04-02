@@ -42,7 +42,7 @@ As regards to Graphic Designing, our members usually use Cinema 4D & Almost all 
   <caption style="padding-bottom: 10px"><h3><code>Staff Members</code></h3></caption>
   <tr>
     <th colspan="2">
-      <a href="https://genemator.me">
+      <a href="https://genemator.uz">
         <span style="color: #000; font-size: 150%; background-image: url(https://howdyho.net/media/images/bg/bg24.gif); text-shadow: 1px 1px 1px rgba(0,0,0,.5)!important; background-position: center center; background-size: cover; background-repeat: no-repeat;">Genemator (left the project)</span><br><code>Founder, Creator</code><br><code>Senior Developer</code>
       </a>
     </th>
